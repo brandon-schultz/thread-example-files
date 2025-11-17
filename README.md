@@ -1,6 +1,6 @@
 # Thread example chunking files and sending messages to manage those files
 
-Demonstrates managing files in a thread
+Demonstrates managing files in threads
 
 ## Usage
 
